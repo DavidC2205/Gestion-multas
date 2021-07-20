@@ -1,0 +1,6 @@
+1232,  Arnulfo Romero,  Analista,  Seccional Turbana
+2233,   Alberto Godoi,   Agente de Transito,   gerente de transito
+2205,   David Castillo,   Analista,   Analista de ciudad de Cartagena
+1534,   Jesus Zabaleta,   Agente de Transito,   Agente turbaco Bolivar
+3315, Javier Teheran, Agente de Transito, Agente de transito seccion Turbana
+2324, Hernan Jose, Agente de Transito, Seccional Bayunca

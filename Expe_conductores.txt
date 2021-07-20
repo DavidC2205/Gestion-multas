@@ -1,0 +1,6 @@
+111,420,Bob marley,MB456,jamaica,mariwanita@gmail.com,444523,ABIERTO
+222,1, Simon Bolivar,IMPAL4, santafe de bogo ta,simontrinida@hotmail.com,123,ABIERTO
+444,23341,  Alberto Arias,    OKP,  Bogota,damkn@gmail.com, 345233,ABIERTO
+666,111222233, Alvaro Uribe, MKELU, El uberrimo,paraco@hotmail.vom, 344312,ABIERTO
+3422,43212, El ñoño Elias, EFRT43,   guarija barrio le chinita,   eññoño@hotmail.com,432234,ABIERTO
+3456,33124,  Diomedez Diaz,  MK1TR4,  Canapote mz 43 lt 12,  elcacique@hotmail.com,34323,ABIERTO

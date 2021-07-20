@@ -1,0 +1,3 @@
+1,   Azucar, 5.0,   blanca
+565,   Cerveza, 8500.0,   cerveza negra
+666, allacui, 200.0, una vaina fea compa

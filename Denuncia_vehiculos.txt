@@ -1,0 +1,3 @@
+23112,     Emeterio Fuentes,     321454,     santa rosa del sur tr 45 No 56,     Roll Royce,     2014,     MLO321,     emiter@gmai.com
+2343,    Campo Elias,    3221345,    campestre mz 43 lt 1,    TOYOTA,    2015,    EKM453,    campoelias@gmail.com
+456787,    William Dau,    432234,    bocagrande mx 45 lt 3,    Jeep,    2013,    ERM768,    eltractor@hotmail.com
